@@ -14,9 +14,9 @@ __Activities__
 
 __Deliverables__
 
-Assignments in jupyter notebook (showing python code used for the satellite course)
-Course summary (summary of what you’ve learn)
-Activity report (briefly describing what you have done)
+* Assignments in jupyter notebook (showing python code used for the satellite course)
+* Course summary (summary of what you’ve learn)
+* Activity report (briefly describing what you have done)
 
 ## Milestone 2
 
