@@ -101,3 +101,4 @@ __Deliverables__
 ## Resources
 
 * [CoastWatch Lectures](https://umd.instructure.com/courses/1336575)
+* [CoastWatch Tutorials](https://github.com/coastwatch-training/CoastWatch-Tutorials)
