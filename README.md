@@ -9,7 +9,11 @@ __Objective__  you will learn how to use ERDDAP data server, satellite data
 __Activities__
 
 * Satellite course indicated in resource section
-  * Satellite 101, Sea Surface Temperature, Sea Ice, Tools & Strategy (only Python)
+  * Satellite 101
+  * Sea Surface Temperature,
+  * Sea Ice,
+  * Sea Surface Height, Winds, Salinity,
+  * Tools & Strategy (only Python)
 * Installation of required software
 
 __Deliverables__
