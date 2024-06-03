@@ -91,8 +91,13 @@ __Activities__
 * Set up quarto/python
 * Draft a "white paper" for your data and analysis
 * Deploy project on github.io
-* Present the final product to the team
+* Give the project presentation to the team
+  
+__Deliverables__
 
+* Deployment of the webpage
+* Presentation of the project
+* Final report
 ## Resources
 
 * [CoastWatch Lectures](https://umd.instructure.com/courses/1336575)
