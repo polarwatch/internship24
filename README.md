@@ -1,5 +1,4 @@
-# 2024 COAST Summer Internship at PolarWatch
-
+# 2024  Summer Internship at PolarWatch
 
 ## Project Milestone and activities
 
@@ -10,6 +9,7 @@ __Objective__  you will learn how to use ERDDAP data server, satellite data
 __Activities__
 
 * Satellite course indicated in resource section
+  * Satellite 101, Sea Surface Temperature, Sea Ice, Tools & Strategy (only Python)
 * Installation of required software
 
 __Deliverables__
@@ -36,8 +36,7 @@ __Deliverables__
 * Activity report (briefly describing what you have done)
 
 
-## NOT UPDATED YET
-Milestone 3
+## Milestone 3
 Objective 
 you will learn to manipulate, summarize, and map satellite wind data and velella velella data
 Activities
@@ -59,4 +58,6 @@ Project report
 Python code
 Activity report (briefly describing what you have done)
 
+## Resources
 
+* [CoastWatch Lectures](https://umd.instructure.com/courses/1336575)
