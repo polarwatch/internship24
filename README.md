@@ -1,10 +1,16 @@
 # 2024  Summer Internship at PolarWatch
 
-## Internship
+## Internship Details
 * Intern: Tien Ly from San Jose State University
 * Mentor: Sunny Hospital from PolarWatch
 * Start Date: June 3, 2024 (Mon)
 * End Date: August 16, 2024 (Fri)
+* Communications
+  * Daily checkin via Google workspace  *Today I will work on ..., I worked on .. I had issues on ..*
+  * 15 min video check-in on mondays and fridays to talk about progress, issues, adjustments, etc.
+  * Bi-weekly PolarWatch team meeting to meet the team, updates, etc. 
+* NOAA Coastwatch seminar series 
+ 
 ## Project Milestone and activities
 
 ## Milestone 1 ( 3 wks: 06.03 - 06.19)
