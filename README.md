@@ -5,10 +5,12 @@
 * Mentor: Sunny Hospital from PolarWatch
 * Start Date: June 3, 2024 (Mon)
 * End Date: August 16, 2024 (Fri)
+* Project repository: https://github.com/polarwatch/internship24/
 * Communications
   * Daily checkin via Google workspace  *Today I will work on ..., Tomorrow I will work on .. I had issues on ..*
   * 15 min video check-in on mondays and fridays to talk about progress, issues, adjustments, etc.
-  * Bi-weekly PolarWatch team meeting to meet the team, updates, etc. 
+  * Bi-weekly PolarWatch team meeting to meet the team, updates, etc.
+* Project Management : github issues 
 * NOAA Coastwatch seminar series 
  
 ## Project Milestone and activities
@@ -23,7 +25,7 @@ __Activities__
   * Sea Surface Temperature,
   * Sea Ice,
   * Sea Surface Height, Winds, Salinity,
-  * Tools & Strategy (only Python)
+  * Tools & Strategy (excl R and ArcGIS)
 * Installation of python and required packages
   * conda, python, and required packages provided in requirements.yaml from mentor
 * Complete some python tutorials from coastwatch [training github](https://github.com/coastwatch-training/CoastWatch-Tutorials)
@@ -64,7 +66,7 @@ __Deliverables__
 
 __Objective__ 
 
-you will learn to compute climatologies and visulize data in a projected map 
+you will learn to compute climatology and visulize data in a projected map 
 
 __Activities__
 
