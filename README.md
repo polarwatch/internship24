@@ -52,15 +52,14 @@ __Activities__
 * Learn [Polarwatch catalog](https://polarwatch.noaa.gov/)
 * Learn about how the data of your choice is developed
 * Learn to read metadata and describe the data product based on the metadata
-* Literature review - find a journal on how the data are used in research or application
-* Create Python notebook to generate statistical summary and visualization of the data
+* Literature review - find 3-5 journals on how the data are used in research or application and mentor/intern will select 1 article to read
+* Create Python notebook to generate statistical summary and visualization of the data from PolarWatch
 
 __Deliverables__
 * Description of the data product
+* Summary of the article
 * jupyter notebook with data summary and visualization
-* Literature review report
 * Activity report (briefly describing what you have done)
-
 
 ## Milestone 3 (3 wks: 07.15 - 07.26)
 
