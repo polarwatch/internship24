@@ -1,6 +1,6 @@
 # 2024  Summer Internship at PolarWatch
 
-## Internship Details
+## Internship (Satellite Data Scientist) Details
 * Intern: Tien Ly from San Jose State University
 * Mentor: Sunny Hospital from PolarWatch
 * Start Date: June 3, 2024 (Mon)
