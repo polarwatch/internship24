@@ -16,7 +16,7 @@
  
 ## Project Milestone and activities
 
-## Milestone 1 ( 3 wks: 06.03 - 06.19)
+## Milestone 1 ( 2 wks: 06.03 - 06.14)
 
 __Objective__  you will learn how to use ERDDAP data server, satellite data, python package xarray
 
@@ -41,7 +41,7 @@ __Deliverables__
 * Course summary (summary of what you’ve learn)
 * Activity report (briefly describing what you have done)
 
-## Milestone 2 (3 wks: 06.22 - 07.12) 
+## Milestone 2 (3 wks: 06.17 - 07.05) 
 
 __Objective__ 
 you will learn about one sea ice data from PolarWatch(sea ice concentration, thickness, IMS, etc.)
@@ -60,7 +60,7 @@ __Deliverables__
 * Activity report (briefly describing what you have done)
 
 
-## Milestone 3 (3 wks: 07.15 - 08.02)
+## Milestone 3 (3 wks: 07.15 - 07.26)
 
 __Objective__ 
 you will learn to compute climatology and visulize data in a projected map 
@@ -78,7 +78,7 @@ __Deliverables__
 * Data summary report
 * Activity report (briefly describing what you have done)
 
-## Milestone 4 (2 wks: 08.05 - 08.16)
+## Milestone 4 (3 wks: 07.29 - 08.16)
 __Objective__ 
 You will learn to draft all your work in Quarto and publish in github.io (Quarto is optional)
 
