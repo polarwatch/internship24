@@ -37,9 +37,11 @@ __Activities__
   * calculate-seaice-extent
   
 __Deliverables__
-* jupyter notebook (showing python code used for the satellite course)
-* Course summary (summary of what you’ve learn)
-* Activity report (briefly describing what you have done)
+* set up conda environment using environment.yml file
+* github - use of `git clone`, `git pull`, `git push`, `git branch [your_branch]`, submission of pull request
+* add jupyter notebooks to the `notebooks/` directory (showing python code used for the satellite course)
+* add course summary (summary of what you’ve learn) to the `reports/milestone1/` directory
+* add Activity report (briefly describing what you have done) to the `reports/milestone1/` directory
 
 ## Milestone 2 (3 wks: 06.17 - 07.05) 
 
