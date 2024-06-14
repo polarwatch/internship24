@@ -51,7 +51,7 @@ you will learn about one sea ice data from PolarWatch(sea ice concentration, thi
 __Activities__
 * Learn [Polarwatch catalog](https://polarwatch.noaa.gov/)
 * Learn about how the data of your choice is developed
-* Learn to read metadata and describe the data product based on the metadata
+* Learn to [read metadata and describe the data product based on the metadata](https://github.com/polarwatch/code-gallery/tree/main/working-with-sea-ice-conc-data) 
 * Literature review - find 3-5 journals on how the data are used in research or application and mentor/intern will select 1 article to read
 * Create Python notebook to generate statistical summary and visualization of the data from PolarWatch
 
