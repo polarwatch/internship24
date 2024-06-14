@@ -67,7 +67,7 @@ If Tien finds an interesting project and the internship schedule allows, we will
 ## Milestone 3 (3 wks: 07.15 - 07.26)
 
 __Objective__ 
-you will learn to compute climatology and visulize data in a projected map 
+you will learn to compute climatology and visulize data on a polar projected map 
 
 __Activities__
 * Learn climatology of sea ice data
