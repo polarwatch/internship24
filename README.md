@@ -61,7 +61,8 @@ __Deliverables__
 * jupyter notebook with data summary and visualization
 * Activity report (briefly describing what you have done)
 
-* (optional) if Tien finds an interesting project and the internship schedule allows, we will try to incorporate modeling component
+__Note__
+If Tien finds an interesting project and the internship schedule allows, we will try to incorporate modeling component
 
 ## Milestone 3 (3 wks: 07.15 - 07.26)
 
