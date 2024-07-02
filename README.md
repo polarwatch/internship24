@@ -89,7 +89,7 @@ You will learn to draft all your work in Quarto and publish in github.io (Quarto
 __Activities__
 * Design and develop a project website
 * Set up quarto/python
-* Draft a "white paper" for your data and analysis
+* Draft a method page for your data and analysis
 * Deploy project on github.io
 * Give the project presentation to the team
   
