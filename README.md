@@ -73,8 +73,8 @@ __Activities__
 * Learn climatology of sea ice data
 * Complete tutorials to [learn how to comptue climatology](https://www.linkedin.com/pulse/python-climate-data-analysis-tutorial-code-ali-ahmadalipour/) [climatology](https://climate.usu.edu/people/yoshi/pyclm101/monthly.html#anomalies-and-climatology)
 * Download data and compute climatology of your sea ice data
-* Draft a report
-* Draft and present data summary to the team
+* Draft Jupyter notebook with explanation
+* Draft a presentation and present data summary to the team
 
 __Deliverables__
 
@@ -98,6 +98,7 @@ __Deliverables__
 * Deployment of the webpage
 * Presentation of the project
 * Final report
+
 ## Resources
 
 * [CoastWatch Lectures](https://umd.instructure.com/courses/1336575)
