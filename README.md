@@ -64,7 +64,7 @@ __Deliverables__
 __Note__
 If Tien finds an interesting project and the internship schedule allows, we will try to incorporate modeling component
 
-## Milestone 3 (3 wks: 07.15 - 07.26)
+## Milestone 3 (3 wks: 07.08 - 07.26)
 
 __Objective__ 
 you will learn to compute climatology and visulize data on a polar projected map 
