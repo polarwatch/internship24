@@ -16,6 +16,7 @@ Through the NOAA CoastWatch Learning Portal, I watched a selection of recorded l
 
 ### Activity 2: Python Tutorials
 To familiarize myself with accessing and manipulating satellite data from the CoastWatch ERDDAP data servers, I completed a series of Python tutorials available on CoastWatch's GitHub repository. First, I set up a conda environment called "polarwatch" using a provided YML file. I completed 4 tutorials, including "tutorial1-basics," "tutorial2-timeseries-compare-sensors," "calculate-seaice-extent," and "map-data-with-different-projections." These tutorials are all in the format of Jupyter notebooks, and I ensured that the kernel selected was the polarwatch environment. Here are the descriptions of each tutorial:
+
 - tutorial1-basics: Learn to access satellite data from the CoastWatch ERDDAP data server and work with NetCDF files. Visualize sea surface temperature on a map and plot time-series data.
 - tutorial2-timeseries-compare-sensors: Learn common ways to download data from ERDDAP servers to access time-series chlorophyll data from four different satellite datasets, and summarize and visualize the data for comparison.
 - calculate-seaice-extent: View sea ice concentration (SIC) data on a map with the polar stereographic projection. Calculate and compare sea ice area/extent from multi-year SIC datasets.
