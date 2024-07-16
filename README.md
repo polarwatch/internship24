@@ -68,6 +68,7 @@ If Tien finds an interesting project and the internship schedule allows, we will
 
 __Objective__ 
 you will learn to compute climatology and visulize data on a polar projected map 
+Additional Activity: buidling predictive model using sea ice and machine learning
 
 __Activities__
 * Learn climatology of sea ice data
@@ -75,6 +76,10 @@ __Activities__
 * Download data and compute climatology of your sea ice data
 * Draft Jupyter notebook with explanation
 * Draft a presentation and present data summary to the team
+
+* Additional project:
+  * read journal articl: https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/50/paper.pdf
+  * create python notebook to build the predictive model using sea ice data from PolarWatch and LSTM algorithm
 
 __Deliverables__
 
