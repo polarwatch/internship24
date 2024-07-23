@@ -77,9 +77,6 @@ __Activities__
 * Draft Jupyter notebook with explanation
 * Draft a presentation and present data summary to the team
 
-* Additional project:
-  * read journal articl: https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/50/paper.pdf
-  * create python notebook to build the predictive model using sea ice data from PolarWatch and LSTM algorithm
 
 __Deliverables__
 
@@ -87,7 +84,19 @@ __Deliverables__
 * Data summary report
 * Activity report (briefly describing what you have done)
 
-## Milestone 4 (3 wks: 07.29 - 08.16)
+
+## Milestone 4A (3 wks: 07.29 - 08.09)
+__Objective__
+You will learn to model sea ice prediction using machine learning (deep learning) apporach. we will replicate the 
+model introduced in the paper (https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/50/paper.pdf)
+
+  * read journal articl: https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/50/paper.pdf
+  * create python notebook to build the predictive model using sea ice data from PolarWatch and LSTM algorithm
+
+
+## Milestone 4b (3 wks: 08.10 - 08.16)
+
+
 __Objective__ 
 You will learn to draft all your work in Quarto and publish in github.io (Quarto is optional)
 
