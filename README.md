@@ -85,7 +85,7 @@ __Deliverables__
 * Activity report (briefly describing what you have done)
 
 
-## Milestone 4A (2 wks: 07.29 - 08.09)
+## Milestone 4a (2 wks: 07.29 - 08.09)
 __Objective__
 You will learn to model sea ice prediction using machine learning (deep learning) apporach. we will replicate the 
 model introduced in the paper (https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/50/paper.pdf)
