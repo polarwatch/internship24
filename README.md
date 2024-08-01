@@ -92,6 +92,7 @@ model introduced in the paper (https://s3.us-east-1.amazonaws.com/climate-change
 
   * read journal articl: https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/50/paper.pdf
   * create python notebook to build the predictive model using sea ice data from PolarWatch and LSTM algorithm
+  * git repo: https://github.com/big-data-lab-umbc/sea-ice-prediction/tree/main/climate-change-ai-workshop
 
 
 ## Milestone 4b (1 wks: 08.10 - 08.16)
