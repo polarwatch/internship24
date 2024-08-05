@@ -99,7 +99,8 @@ model introduced in the paper (https://s3.us-east-1.amazonaws.com/climate-change
 
 
 __Objective__ 
-You will learn to draft all your work in Quarto and publish in github.io (Quarto is optional)
+You will learn to draft all your work in Quarto and publish in github.io 
+https://quarto.org/docs/gallery/
 
 __Activities__
 * Design and develop a project website
