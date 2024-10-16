@@ -89,7 +89,7 @@ __Deliverables__
 ## Milestone 4a (2 wks: 07.29 - 08.09)
 
 __Objective__
-You will learn to model sea ice prediction using machine learning (deep learning) apporach. We will replicate the model introduced in the [paper] (https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/50/paper.pdf)
+You will learn to model sea ice prediction using machine learning (deep learning) apporach. We will replicate the model introduced in the [paper](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/50/paper.pdf)
 
   * Read journal article: https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/50/paper.pdf
   * Create python notebook to build the predictive model using sea ice data from PolarWatch and LSTM algorithm
